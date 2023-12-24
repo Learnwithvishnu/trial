@@ -1,3 +1,3 @@
 # trial
 this is my first repository. 
-Authoe- Vishnu
+Author- Vishnu
